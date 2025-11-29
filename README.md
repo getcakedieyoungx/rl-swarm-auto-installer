@@ -4,6 +4,9 @@
 
 ![Gensyn](https://img.shields.io/badge/Gensyn-Testnet-purple?style=for-the-badge) ![Bash](https://img.shields.io/badge/Script-Bash-green?style=for-the-badge)
 
+<img width="1008" height="406" alt="image" src="https://github.com/user-attachments/assets/14113cfe-183f-4a03-8e0b-63252d25dc1b" />
+
+
 
 ## 🛠️ Installation
 
