@@ -1,16 +1,8 @@
 # ⚡ RL-Swarm  Auto-Installer
 
 > **One-Click Setup for Gensyn RL Swarm Nodes**  
-> *Automated by getcakedieyoungx*
 
 ![Gensyn](https://img.shields.io/badge/Gensyn-Testnet-purple?style=for-the-badge) ![Bash](https://img.shields.io/badge/Script-Bash-green?style=for-the-badge)
-
-## 🚀 Features
-
-*   **🎨 ASCII Art:** Because style matters.
-*   **📦 Auto-Dependencies:** Installs Python, Node.js, Yarn, and system tools automatically.
-*   **🚇 Smart Tunneling:** Sets up `localtunnel` in the background and gives you the URL/Password instantly.
-*   **🛡️ Safety First:** Detach instructions included to keep your node running 24/7.
 
 ## 🛠️ Installation
 
