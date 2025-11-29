@@ -1,22 +1,28 @@
-# ⚡ RL-Swarm  Auto-Installer
+# ⚡ RL-Swarm Auto-Installer
 
 > **One-Click Setup for Gensyn RL Swarm Nodes**  
 
 ![Gensyn](https://img.shields.io/badge/Gensyn-Testnet-purple?style=for-the-badge) ![Bash](https://img.shields.io/badge/Script-Bash-green?style=for-the-badge)
+
 
 ## 🛠️ Installation
 
 You can set up your node in less than 1 minute.
 
 ### Option 1: The "Lazy" Way (One Command)
-*(Coming soon once pushed to main)*
+
+Just copy and paste this into your terminal:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/getcakedieyoungx/rl-swarm-auto-installer/main/install_gensyn.sh)
+```
 
 ### Option 2: Manual Clone
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/getcakedieyoungx/rl-swarm-auto-installer.git
-    cd rl-swarm-auto-installer
+    git clone https://github.com/getcakedieyoungx/gensyn-installer.git
+    cd gensyn-installer
     ```
 
 2.  **Make the script executable:**
